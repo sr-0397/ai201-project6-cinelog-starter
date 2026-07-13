@@ -48,6 +48,3 @@ While alphabetical order is useful for browsing a large list, I think date-added
 <!-- Written at the end — feature overview, design decisions, manual testing steps -->
 
 
-
-
-https://github.com/sr-0397/ai201-project6-cinelog-starter/tree/feature/watchlist
